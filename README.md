@@ -4,3 +4,7 @@
      <h1>Ao caos aonde só tem</h1>
       <p>LOUCOS E DOENTES</p>
 </body>    
+ <head>
+    <link rel="stylesheet" hfer="stiles.css">
+    <title>AluraFlix</title>
+ </head>
